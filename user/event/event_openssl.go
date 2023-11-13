@@ -28,7 +28,7 @@ const (
 	ProbeRet
 )
 
-const MaxDataSize = 1024 * 4
+const MaxDataSize = 1024 * 8
 const SaDataLen = 14
 
 const (
